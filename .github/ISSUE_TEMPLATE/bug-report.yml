@@ -1,7 +1,7 @@
 name: Report a bug
 description: Report a bug in angr-dev
 labels: [bug,needs-triage]
-body:
+body:       
   - type: markdown
     attributes:
       value: |
